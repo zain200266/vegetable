@@ -1,0 +1,15 @@
+nav{
+    background-color: greenyellow;
+}
+.carousel-control-prev-icon{
+    background-color: green;
+    border-radius: 5px;
+}
+.carousel-control-next-icon{
+    background-color: green;
+    border-radius: 5px;
+}
+h5 {
+    text-align: center;
+}
+
